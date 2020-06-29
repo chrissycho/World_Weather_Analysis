@@ -4,9 +4,9 @@
 We are working on data to implement customer feedback for a company, PlanMyTrip. For the following project, PlnMyTrip will use the weather data to recommend ideal hotels based on clients’ weather preferences as well as show a the directions for customers' travel itinerary.
 ## Resources
 Python 3.7.7; Conda 4.7.12
-Data Source 1: https://openweathermap.org/api
-Data Source 2: https://maps.googleapis.com/maps/api/place/nearbysearch/json
-Software: Jupyter Notebook, Pandas Library, CityPy, Python Request, APIs, JSON Traversals
+- Data Source 1: https://openweathermap.org/api
+- Data Source 2: https://maps.googleapis.com/maps/api/place/nearbysearch/json
+- Software: Jupyter Notebook, Pandas Library, CityPy, Python Request, APIs, JSON Traversals
 
 ## Summary
 ### Part I: Get the Weather Description and Amount of Precipitation for Each City
